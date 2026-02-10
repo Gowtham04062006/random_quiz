@@ -1,0 +1,100 @@
+.header{
+    top: 0;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+.head{
+    margin-left: 600px;
+}
+#time{
+    font-size: large;
+    border: 2px solid rgb(135, 0, 0);
+    border-radius: 8px;
+    height: 50px;
+    width: 150px;
+    background-color: rgb(212, 6, 6);
+    margin-left: 400px;
+}
+
+#time1{
+    font-size: large;
+    border: 2px solid rgb(135, 0, 0);
+    border-radius: 8px;
+    height: 50px;
+    width: 150px;
+    background-color: rgb(212, 6, 6);
+    margin-left: 400px;
+}
+.ins{
+    padding: 2px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: rgb(187, 231, 246);
+}
+
+.ins-p{
+    color: rgb(1, 131, 174);
+    margin-left: 10px;
+    line-height: 30px;
+}
+.ins-p span{
+    color: rgb(207, 1, 1);
+}
+
+.ins-p b{
+    color: rgb(0, 116, 158);
+}
+
+#id{
+    color: white;
+}
+
+.bu_bo{
+    margin-left: 700px;
+    margin-top: 20px;
+    font-size: medium;
+    border-radius: 5px;
+    border: 2px solid black;
+    height: 30px;
+    width: 60px;
+    justify-content: center;
+    background-color: rgb(23, 190, 251);
+}
+
+#pre{
+    color: rgb(5, 200, 27);
+    margin-left: 570px;
+}
+
+.submit{
+    margin-left: 700px;
+    margin-top: 20px;
+    font-size: medium;
+    border-radius: 5px;
+    border: 2px solid black;
+    height: 30px;
+    width: 70px;
+    justify-content: center;
+    background-color: rgb(23, 190, 251);
+}
+
+.you{
+    font-size: large;
+    color: rgb(5, 200, 27);
+    margin-left: 10px;
+}
+
+.marks{
+    margin-left: 10px;
+    font-size: small;
+}
+
+.ques{
+    margin-left: 10px;
+}
